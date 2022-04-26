@@ -5,3 +5,17 @@ html {
 body {
   font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.main_slider {
+}
+.main_slider__item {
+  /* width: 100%; */
+}
+.main_slider__img {
+  /* width: 100vw;
+  width: 100%; */
+  max-width: 100%;
+}
