@@ -1,4 +1,4 @@
-$('.main_slider').slick({
+$(".main_slider").slick({
     Infinite: true,
     dots: true,
     slidesToShow: 3,
