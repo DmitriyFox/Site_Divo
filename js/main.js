@@ -1,9 +1,16 @@
-$(".main_slider").slick({
-    Infinite: true,
-    dots: true,
-    slidesToShow: 3,
-    slidesToScroll: 1
-});
+$(".main_slider").slick(
+        {
+        // Infinite: true,
+        arrows: false,
+        dots: true,
+        // slidesToShow: 3,
+        // slidesToScroll: 1
+        autoplay: true,
+        autoplaySpeed: 2000,
+        fade: true,
+        cssEase: 'linear'
+    }
+);
 
 // if (window.jQuery) {
 //     var verJquery = jQuery.fn.jquery;
