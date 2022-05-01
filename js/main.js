@@ -5,7 +5,7 @@ $(".main_slider").slick(
         dots: true,
         // slidesToShow: 3,
         // slidesToScroll: 1
-        autoplay: true,
+        // autoplay: true,
         autoplaySpeed: 2000,
         fade: true,
         cssEase: 'linear'
