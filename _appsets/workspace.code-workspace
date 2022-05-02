@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"emmet.syntaxProfiles": {
+		"classfirst": true
+		},
+		"emmet.preferences": {
+		
+		},
+		"html-css-class-completion.enableEmmetSupport": true
+	}
+}
