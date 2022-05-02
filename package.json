@@ -1,0 +1,19 @@
+{
+  "name": "site_divo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyFox/Site_Divo.git"
+  },
+  "author": "DmitriyFox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyFox/Site_Divo/issues"
+  },
+  "homepage": "https://github.com/DmitriyFox/Site_Divo#readme"
+}
