@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DmitriyFox/Site_Divo/issues"
   },
-  "homepage": "https://github.com/DmitriyFox/Site_Divo#readme"
+  "homepage": "https://github.com/DmitriyFox/Site_Divo#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }

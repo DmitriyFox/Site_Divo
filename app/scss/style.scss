@@ -1,0 +1,34 @@
+@import "modules/reset";
+@import "modules/common";
+
+body {
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  background-color: rgb(190, 190, 190);
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+figure {
+  position: relative;
+}
+.main_slider {
+  min-height: 390px;
+
+  &__caption {
+    position: absolute;
+    top: 50%;
+    display: none;
+  }
+  &__item {
+    position: relative;
+    /* width: 100%; */
+  }
+  &__img {
+    /* width: 100vw;
+  width: 100%; */
+    max-width: 100%;
+  }
+}
